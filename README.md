@@ -1,6 +1,6 @@
 # Chhatrish
 
-Unicode Bangla typeface.
+July 36 Font by <a href="https://lipighor.com">Lipighor</a>.
 
 ## Usage
 #### HTML
