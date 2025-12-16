@@ -1,9 +1,19 @@
+/* Regular */
 @font-face {
     font-family: "Chhatrish";
-    src: url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font/fonts/Chhatrish-Regular.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font/fonts/Chhatrish-Regular.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font/fonts/Chhatrish-Regular.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font@v1.0.0/fonts/Chhatrish-Regular.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font@v1.0.0/fonts/Chhatrish-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
+}
+
+/* Italic */
+@font-face {
+    font-family: "Chhatrish";
+    src: url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font@v1.0.0/fonts/Chhatrish-Italic.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font@v1.0.0/fonts/Chhatrish-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
     font-display: swap;
 }
