@@ -1,15 +1,9 @@
 @font-face {
-	font-family: 'Chhatrish';
-	src: url('../fonts/Chhatrish-Regular.woff2') format('woff2');
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
-
-@font-face {
-	font-family: 'Chhatrish';
-	src: url('../fonts/Chhatrish-Italic.woff2') format('woff2');
-	font-weight: 400;
-	font-style: italic;
-	font-display: swap;
+    font-family: "Chhatrish";
+    src: url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font/fonts/Chhatrish-Regular.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font/fonts/Chhatrish-Regular.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/iif-dev/chhatrish-font/fonts/Chhatrish-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
